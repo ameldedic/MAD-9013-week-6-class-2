@@ -1,0 +1,8 @@
+main {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 2rem;
+    -moz-column-count: 2;
+    -moz-column-gap: 2rem;
+    column-count: 2;
+    column-gap: 2rem;
+}
